@@ -1,0 +1,2 @@
+if (c) then x:= y else y:=x fi;
+z := x * y

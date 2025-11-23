@@ -1,0 +1,11 @@
+x:=4;
+if c <= 2 then
+  y:=2
+else
+  y:=3
+fi;
+if x = 4 then
+  x:=5
+else
+  x:=6
+fi

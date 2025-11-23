@@ -1,0 +1,11 @@
+x:=4;
+if x = 4 then
+  x:=5
+else
+  x:=6
+fi;
+if x = 5 then
+  y:=2
+else
+  y:=3
+fi

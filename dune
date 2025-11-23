@@ -1,0 +1,11 @@
+(executables
+  (names live_var constant_propagation safe_def)
+  (libraries zarith ocamlgraph)
+  (flags -w -37-32)
+)
+
+(menhir
+  (modules parser)
+)
+
+(ocamllex lexer)
